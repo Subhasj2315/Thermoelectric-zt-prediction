@@ -1,6 +1,6 @@
 # Thermoelectric Figure of Merit (ZT) Prediction using XGBoost and Magpie Features
 
-Author :- Subhjit Khan
+Author :- Subhajit Khan
 
 ## Overview
 
