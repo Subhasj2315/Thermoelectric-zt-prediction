@@ -67,7 +67,7 @@ Cleaned_Data.csv
 
 ### step 2: Distribution of Target Variable
 
-![Violin Plot](Figures\violin_plot_ZT_values.png)
+![violin_plot](Figures/violin_plot_ZT_values.png)
 
 **Insights:**
 - Shows the distribution of zT values.
@@ -238,7 +238,7 @@ Fold Scores:
 0.794
 0.731
 ```
-![5-Fold cross validation performance plot](Figures\cross_validation_scores.png)
+![5-Fold_cross_validation_performance_plot](Figures\cross_validation_scores.png)
 
 Performance:
 
